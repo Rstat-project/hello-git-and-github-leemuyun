@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: "Lee Mu Yun"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+Taichung
 
 - 我決定來這裡的動機？
 
-NULL
+I'm eager to understand more about psychology in different dimensions, such as way of statistics or program coding. 
 
 - 我對這門課的期望？
 
-NULL
+I really hope that I can learn to be professional in psychology through learning un this class.
